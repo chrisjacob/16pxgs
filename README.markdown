@@ -26,6 +26,10 @@ Source: [https://github.com/SlexAxton/yepnope.js](https://github.com/SlexAxton/y
 Site: [http://code.google.com/p/html5shim/](http://code.google.com/p/html5shim/)    
 Source: [http://code.google.com/p/html5shim/source/browse/](http://code.google.com/p/html5shim/source/browse/)    
 
+**Bootstrap.less**    
+Site: [http://markdotto.com/bootstrap/](http://markdotto.com/bootstrap/)     
+Source: [https://github.com/markdotto/Bootstrap.less](https://github.com/markdotto/Bootstrap.less)    
+
 
 ## Inspiration
 
@@ -43,3 +47,5 @@ Source: [http://code.google.com/p/html5shim/source/browse/](http://code.google.c
 [{Less}.app](http://incident57.com/less/)
 
 [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+
+[LESS TextMate Bundle](https://github.com/appden/less.tmbundle)
