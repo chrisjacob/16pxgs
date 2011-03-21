@@ -6,25 +6,25 @@ See Github Page:
 
 ## Resources
 
-{LESS}
-Site: [http://lesscss.org/](http://lesscss.org/)
-Source: [https://github.com/cloudhead/less.js](https://github.com/cloudhead/less.js)
+**{LESS}**    
+Site: [http://lesscss.org/](http://lesscss.org/)    
+Source: [https://github.com/cloudhead/less.js](https://github.com/cloudhead/less.js)    
 
-Respond.js
-Site: [http://filamentgroup.com/lab/respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/](http://filamentgroup.com/lab/respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/)
-Source: [https://github.com/scottjehl/Respond](https://github.com/scottjehl/Respond)
+**Respond.js**    
+Site: [http://filamentgroup.com/lab/respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/](http://filamentgroup.com/lab/respondjs_fast_css3_media_queries_for_internet_explorer_6_8_and_more/)    
+Source: [https://github.com/scottjehl/Respond](https://github.com/scottjehl/Respond)    
 
-Modernizr.js (includes yepnope.js & html5shim listed below)
-Site: [http://www.modernizr.com/](http://www.modernizr.com/)
-Source: [https://github.com/Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)
+**Modernizr.js** (includes yepnope.js & html5shim listed below)    
+Site: [http://www.modernizr.com/](http://www.modernizr.com/)    
+Source: [https://github.com/Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)    
 
-yepnope.js
-Site: [http://yepnopejs.com/](http://yepnopejs.com/)
-Source: [https://github.com/SlexAxton/yepnope.js](https://github.com/SlexAxton/yepnope.js)
+**yepnope.js**    
+Site: [http://yepnopejs.com/](http://yepnopejs.com/)    
+Source: [https://github.com/SlexAxton/yepnope.js](https://github.com/SlexAxton/yepnope.js)    
 
-html5shim
-Site: [http://code.google.com/p/html5shim/](http://code.google.com/p/html5shim/)
-Source: [http://code.google.com/p/html5shim/source/browse/](http://code.google.com/p/html5shim/source/browse/)
+**html5shim**    
+Site: [http://code.google.com/p/html5shim/](http://code.google.com/p/html5shim/)    
+Source: [http://code.google.com/p/html5shim/source/browse/](http://code.google.com/p/html5shim/source/browse/)    
 
 
 ## Inspiration
