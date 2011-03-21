@@ -29,9 +29,11 @@ Source: [http://code.google.com/p/html5shim/source/browse/](http://code.google.c
 
 ## Inspiration
 
-Less Framework 4: [http://lessframework.com/](http://lessframework.com/)
+**Less Framework 4:**    
+[http://lessframework.com/](http://lessframework.com/)    
 
-960 Grid System: [http://960.gs/](http://960.gs/)
+**960 Grid System:**    
+[http://960.gs/](http://960.gs/)    
 
 
 ## Tutorials / Other
