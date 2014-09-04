@@ -1,7 +1,10 @@
-# 16px Responsive Grid System [Source] [UNDER DEVELOPMENT]
+# 16px Responsive Grid System [Source] [NOT BEING DEVELOPED]
 
 See Github Page:
 [http://chrisjacob.github.com/16pxgs](http://chrisjacob.github.com/16pxgs)
 
-See Github Page Source:
 [https://github.com/chrisjacob/16pxgs/tree/gh-pages](https://github.com/chrisjacob/16pxgs/tree/gh-pages)
+
+This is just an edit.
+
+Looking good.
